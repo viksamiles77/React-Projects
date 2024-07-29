@@ -1,4 +1,3 @@
-import React from "react";
 import { useState } from "react";
 import "./App.css";
 
@@ -13,9 +12,10 @@ export default function App() {
 function Counter() {
   const [count, setCount] = useState(0);
   const [step, setStep] = useState(1);
+  const [startDate] = useState(new Date());
 
-  const date = new Date("July 04 2004");
-  date.setDate(date.getDate() + count);
+  const date = new Date(startDate);
+  date.setDate(startDate.getDate() + count);
 
   function handleReset() {
     setCount(0);
