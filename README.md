@@ -46,6 +46,12 @@ Welcome to my repository of React projects! Here you'll find a collection of var
 - **Features:** Input for the bill amount, dropdowns to select satisfaction levels (5%, 10%, 20%) for both you and your friend, displays the total price including the tips at the bottom.
 - [View Project](https://github.com/viksamiles77/React-Projects/tree/main/Bill%20Calculator/bill-calculator) | [Read More](https://github.com/viksamiles77/React-Projects/tree/main/Bill%20Calculator/bill-calculator/README.md)
 
+### 8. Eat 'N Split App
+
+- **Description:** Eat-N Split is a React application designed to simplify the process of splitting bills among friends.
+- **Features:** View Friends: The app displays a list of friends, Add friends, shows their current balance (whether they owe money or are owed) and Split bills.
+- [View Project](https://github.com/viksamiles77/React-Projects/tree/main/Eat-N%20Split/eat-n-split) | [Read More](https://github.com/viksamiles77/React-Projects/blob/main/Eat-N%20Split/eat-n-split/README.md)
+- 
 ## Getting Started
 
 To run any of the projects locally, follow these general steps:
