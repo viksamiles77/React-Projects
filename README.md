@@ -51,6 +51,12 @@ Welcome to my repository of React projects! Here you'll find a collection of var
 - **Description:** Eat-N Split is a React application designed to simplify the process of splitting bills among friends.
 - **Features:** View Friends: The app displays a list of friends, Add friends, shows their current balance (whether they owe money or are owed) and Split bills.
 - [View Project](https://github.com/viksamiles77/React-Projects/tree/main/Eat-N%20Split/eat-n-split) | [Read More](https://github.com/viksamiles77/React-Projects/blob/main/Eat-N%20Split/eat-n-split/README.md)
+
+### 9. usePopcorn App
+
+- **Description:** usePopcorn is a React application that allows users to search for movies, view details, and manage a list of watched movies.
+- **Features:** Search Movies: Users can search for movies by title, view movie details, rate, add to watched list, and manage watched movies.
+- [View Project](https://github.com/viksamiles77/React-Projects/tree/main/Use%20Popcorn/use-popcorn) | [Read More](https://github.com/viksamiles77/React-Projects/blob/main/Use%20Popcorn/use-popcorn/README.md)
   
 ## Getting Started
 
