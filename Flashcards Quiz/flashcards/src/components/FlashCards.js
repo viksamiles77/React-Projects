@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { questions } from "./questions";
+import { questions } from "../questions";
 
 export default function FlashCards() {
   const [selectedId, setSelectedId] = useState(null);

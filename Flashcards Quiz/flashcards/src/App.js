@@ -1,6 +1,6 @@
 import "./styles.css";
 import Header from "./components/Header.js";
-import FlashCards from "./FlashCards.js";
+import FlashCards from "./components/FlashCards.js"
 
 export default function App() {
   return (
