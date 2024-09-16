@@ -1,0 +1,13 @@
+.hangman-container {
+  height: 100vh;
+  text-align: center;
+  background: url(../assets/sch-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hangman-container h3 {
+  font-size: 1.2rem;
+  font-family: 'Poppins', sans-serif;
+}

@@ -1,0 +1,30 @@
+.button {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #333; 
+  color: white; 
+  border: none; 
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.again {
+  background-color: red;
+}
+
+.again:hover {
+  background-color: rgb(190, 0, 0);
+}
+
+.hint {
+  background-color: rgb(47, 188, 0);
+}
+
+.hint:hover {
+  background-color: rgb(34, 136, 0);
+}

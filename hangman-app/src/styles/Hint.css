@@ -1,0 +1,19 @@
+.hint-text {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.3rem;
+  color: #333;
+  text-align: center;
+  margin: 10px 0;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+
+}
+
+.hint-text.hidden {
+  visibility: hidden;
+}
+
+.hint-text.visible {
+  visibility: visible;
+  opacity: 1;
+}

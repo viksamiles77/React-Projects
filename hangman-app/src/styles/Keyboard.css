@@ -1,0 +1,31 @@
+.keyboard-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.keyboard-button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  background-color: #262626;
+  color: #fff;
+}
+
+.keyboard-button[disabled] {
+  opacity: 0.5;
+  pointer-events: none;
+  background-color: #a2a2a2;
+  color: #000;
+}
+
+.keyboard-button:hover {
+  background-color: #444444;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
